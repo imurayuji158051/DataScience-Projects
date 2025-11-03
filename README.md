@@ -6,7 +6,7 @@
 
 ## 🧭 目的
 
-- Kaggle・GCI・DL基礎などの学習内容を、実務的な形で整理・発信する
+- Kaggle・人工知能などの学習内容を、実務的な形で整理・発信する
 - 分析プロセス（Input → Process → Output → Feedback）を統一管理する
 - 自分や他者が再現可能な学習プロジェクトテンプレートを構築する
 
@@ -17,9 +17,8 @@
 | No | プロジェクト名 | 主な目的 | 使用技術 | 進捗状況 | ノートブック |
 |----|----------------|-----------|-----------|-------------|---------------|
 | 1 | [Titanic-Analysis-Management](./Titanic-Analysis-Management) | 分類入門（生存予測） | Python, pandas, scikit-learn | 🟢 進行中 | [01_EDA.ipynb](./Titanic-Analysis-Management/notebooks/01_EDA.ipynb) |
-| 2 | [FashionMNIST-Classification](./FashionMNIST-Classification) | DL基礎（Softmax・MLP） | PyTorch, NumPy | 🟢 実施中 | - |
+| 2 | [FashionMNIST-Classification](./FashionMNIST-Classification) | 深層学習（Softmax・MLP） | PyTorch, NumPy | 🟢 実施中 | - |
 | 3 | [HousePrice-Prediction](./HousePrice-Prediction) | 回帰予測 | LightGBM, Feature Engineering | 🔵 準備中 | - |
-| 4 | [GCI-Lectures-Notes](./GCI-Lectures-Notes) | GCI・DL講義ノート整理 | NumPy, DL理論 | 🟡 整理中 | - |
 
 ---
 

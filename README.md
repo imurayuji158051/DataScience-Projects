@@ -58,9 +58,8 @@
 ## 👤 作者
 
 **井村勇士 (Yuji Imura)**  
-- AI × 教育 × 社会設計をテーマに活動中  
-- 問題と向き合える社会をつくるための「学びの再循環モデル」を研究  
-- [GitHub](https://github.com/imurayuji158051) ｜ [Note](https://note.com/) ｜ [LinkedIn](https://linkedin.com/) ｜ [Kaggle](https://www.kaggle.com/)
+📍 Data Science / Learning Design / AI Education
+📫 [LinkedIn](https://www.linkedin.com/in/yuji-imura-90bb182a9/) | [Note](https://note.com/imurayuji) | [GitHub](https://github.com/imurayuji158051)
 
 ---
 
